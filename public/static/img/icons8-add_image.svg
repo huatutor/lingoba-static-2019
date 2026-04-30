@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="26px" height="24px" viewBox="0 0 26 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>icons8-add_image</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Flashcards-(Autosuggest)" transform="translate(-591.000000, -1687.000000)" fill-rule="nonzero">
+            <g id="icons8-add_image" transform="translate(591.000000, 1687.000000)">
+                <path d="M21.2727273,19.902439 L2.36363636,19.902439 C1.06363636,19.902439 0,18.8487805 0,17.5609756 L0,2.34146341 C0,1.05365854 1.06363636,0 2.36363636,0 L21.2727273,0 C22.5727273,0 23.6363636,1.05365854 23.6363636,2.34146341 L23.6363636,17.5609756 C23.6363636,18.8487805 22.5727273,19.902439 21.2727273,19.902439 Z" id="Shape" fill="#E6E6E6"></path>
+                <ellipse id="Oval" fill="#FFFFFF" cx="18.3181818" cy="5.26829268" rx="1.77272727" ry="1.75609756"></ellipse>
+                <polygon id="Shape" fill="#F2F2F2" points="9.45454545 5.26829268 2.95454545 14.6341463 15.9545455 14.6341463"></polygon>
+                <polygon id="Shape" fill="#FFFFFF" points="15.9545455 8.7804878 11.2272727 14.6341463 20.6818182 14.6341463"></polygon>
+                <ellipse id="Oval" fill="#36CA36" cx="20.0909091" cy="18.1463415" rx="5.90909091" ry="5.85365854"></ellipse>
+                <g id="Group" transform="translate(16.545455, 14.634146)" fill="#FFFFFF">
+                    <rect id="Rectangle-path" x="2.36363636" y="0" width="2.36363636" height="7.02439024"></rect>
+                    <rect id="Rectangle-path" x="0" y="2.34146341" width="7.09090909" height="2.34146341"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

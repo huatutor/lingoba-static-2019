@@ -1,0 +1,17 @@
+ 
+a { 
+  color:#0699cd;
+  text-decoration:none;
+}
+a:hover { 
+  color:#0699cd;
+  text-decoration:underline;
+}
+a:visited { 
+  color:#0699cd;
+}
+.card{
+  background-color: #ffffff; max-width: 640px; width: 100%; margin: 20px auto; padding: 20px; font-size: 14px; border-radius: 10px;
+}
+
+ 
